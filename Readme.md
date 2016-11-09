@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Алиса Морозова](https://up.htmlacademy.ru/htmlcss/15/user/247305).
-* Наставник: sdfsdf.
+* Наставник: [Илья Борисенко] (https://htmlacademy.ru/profile/id39390).
 
 ---
 
